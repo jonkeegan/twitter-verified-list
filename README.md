@@ -1,5 +1,5 @@
 # twitter-verified-list
-A list of the 413,745 verified Twitter accounts followed by [@verfied](https://twitter.com/verified) as of Nov. 2, 2022. 
+A list of the 413,745 verified Twitter accounts followed by [@verified](https://twitter.com/verified) as of Nov. 2, 2022. 
 
 This list was compiled using the [Twitter API](https://developer.twitter.com/en/docs/twitter-api) and [Tweepy](https://www.tweepy.org/). 
 
